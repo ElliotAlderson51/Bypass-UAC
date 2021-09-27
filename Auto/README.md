@@ -3,7 +3,7 @@
 
 **Steps**
 1. Inject the DLL into the binary
-2. 2. Start the binary will open cmd in UAC privilege!
+2. Start the binary will open cmd in UAC privilege!
 
 In the cmd go to the folder that "Injector.exe" is inside.
 Type the command:
