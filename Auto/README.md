@@ -25,5 +25,7 @@ To check if its works type in the new cmd that now opened:
 whoami /priv
 ```
 
+**Links**
+
 CFF Explorer:
 https://ntcore.com/?page_id=388
