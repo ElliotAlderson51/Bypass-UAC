@@ -2,7 +2,7 @@
 
 ##Elliot Alderson Project
 
-**Hello, I make to projects to bypass UAC:**
+**Hello, I make two projects to bypass UAC:**
 
 1. Menual
 2. Auto
