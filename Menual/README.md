@@ -24,4 +24,4 @@ Create DLL lilke this:
 Rename the DLL to "secur32.dll"
 
 Copy the DLL to the mock folder.
-Start the "ComputerDefaults.exe" (in our mock folder) will Start cmd with UAC privilege!!
+Start the "ComputerDefaults.exe" (in our mock folder) will start cmd with UAC privilege!!
