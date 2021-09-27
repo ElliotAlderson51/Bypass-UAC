@@ -14,7 +14,10 @@ int main()
 {
     BypassUAC uac;
     
-    uac.StartBypassUAC();
+    if (uac.StartBypassUAC())
+        std::cout << "Start Bypass UAC SUCCESS!\n";
+    else
+        std::cout << "Start Bypass UAC FAILED!\n";
 
     return 0;
 }
