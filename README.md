@@ -9,3 +9,7 @@
 
 Click on the folder and you will find README.md file with explanation!
 
+##
+
+This project is for EDUCATIONAL PURPOSES ONLY.
+You are the only responsable for your actions!
