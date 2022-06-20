@@ -25,6 +25,8 @@ To check if its works type in the new cmd that now opened:
 whoami /priv
 ```
 
+https://user-images.githubusercontent.com/52316309/174519967-9735dbe0-f91d-4b82-83da-dfeb7bb5c6e7.mp4
+
 **Links**
 
 CFF Explorer:
