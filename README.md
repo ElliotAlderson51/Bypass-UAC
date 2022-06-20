@@ -2,7 +2,7 @@
 
 **Hey, I make two projects to bypass UAC:**
 
-1. Menual
+1. Manual
 2. Auto
 
 You will find in each folder (Munual/Auto) a README.md file with explanation!
